@@ -7,7 +7,7 @@ a cleaned, analysis-ready CSV at data/cleaned/ufc_cleaned.csv.
 Run from the project root:
     python scripts/01_clean.py
 
-Author: [YOUR STUDENT NUMBER]
+Author: 730054774
 """
 
 import pandas as pd
