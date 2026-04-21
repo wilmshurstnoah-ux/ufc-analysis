@@ -1,5 +1,5 @@
 """
-01_clean.py — UFC Data Cleaning Script
+01_clean.py — UFC Data Cleaning Script — BEE2041 Data Science in Economics
 =======================================
 Takes the raw UFC dataset from data/raw/ufcdataset.csv and produces
 a cleaned, analysis-ready CSV at data/cleaned/ufc_cleaned.csv.
